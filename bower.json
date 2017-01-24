@@ -1,0 +1,28 @@
+{
+  "name": "bites",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "Abhishek Chadha"
+  ],
+  "license": "MIT",
+  "homepage": "https://bytesforbites.github.io/",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "builds",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "ladda": "^1.0.0"
+  }
+}
